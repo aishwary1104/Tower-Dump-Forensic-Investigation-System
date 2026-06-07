@@ -48,7 +48,21 @@ By combining geospatial intelligence, behavioral analytics, and data visualizati
 * Advanced geospatial mapping
 * Predictive investigation analytics
 * Real-time telecom data integration
+## System Architecture
 
+```text
+CDR / Tower Dump Data
+          ↓
+Data Processing
+          ↓
+Behavioral Analytics
+          ↓
+Geospatial Intelligence
+          ↓
+Investigation Dashboard
+          ↓
+Report Generation
+```
 ## Author
 
 Aishwarya Rajasekaran
